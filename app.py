@@ -8,6 +8,9 @@ import json
 load_dotenv() ## load all our environment variables
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+model = genai.GenerativeModel(model_name="models/gemini-2.5-pro")
+for model in genai.list_models():
+    print(model.name, model.supported_generation_methods)
 
 def get_gemini_repsonse(input):
     model=genai.GenerativeModel('gemini-pro')
