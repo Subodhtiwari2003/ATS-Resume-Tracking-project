@@ -20,4 +20,5 @@ A smart, AI-powered tool that mimics Applicant Tracking Systems (ATS) by analyzi
 | Anaconda        | Environment & dependency management |
 
 ## 📁 Project Structure
+## ⚙️ How to Run
 
