@@ -25,4 +25,8 @@ A smart, AI-powered tool that mimics Applicant Tracking Systems (ATS) by analyzi
 # Create environment
 conda create -n test python=3.12 -y
 conda activate test
+# Install dependencies
+pip install -r requirements.txt
+
+
 
