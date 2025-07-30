@@ -38,6 +38,9 @@ response = model.generate_content(
 )
 
 # Purpose
+# This project helps candidates:
+- Test their resumes against AI-powered benchmarks.
+- Optimize resumes for better ATS compatibility.
 
 
 
