@@ -37,6 +37,10 @@ response = model.generate_content(
   f"Rate this resume against the job role of 'Junior Data Scientist'.\n\nResume:\n{text}"
 )
 
+# Purpose
+
+
+
 
 
 
