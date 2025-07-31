@@ -44,6 +44,9 @@ response = model.generate_content(
 - Gain constructive feedback before applying for jobs.
 
 ## Contact
+Author: Subodh
+
+
 
 
 
