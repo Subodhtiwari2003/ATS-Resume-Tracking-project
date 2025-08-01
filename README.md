@@ -46,7 +46,7 @@ response = model.generate_content(
 ## Contact
 Author: Subodh Tiwari
 Email: kumarsubodh150403@gmail.com
-Linkedingit commit -m "update"
+Linkedin: https://www.linkedin.com/in/subodh-tiwari-/
 
 
 
