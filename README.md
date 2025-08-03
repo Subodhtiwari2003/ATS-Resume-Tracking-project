@@ -5,5 +5,6 @@ An intelligent, AI-driven web app that simulates how Applicant Tracking Systems 
 This tool empowers job seekers to:
 - 📄 Upload their resume in PDF format
 - 🧠 Get instant AI-based scoring for job relevance
+- 📊 Receive personalized feedback to optimize resume conten
 
 
