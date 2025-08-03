@@ -6,5 +6,6 @@ This tool empowers job seekers to:
 - 📄 Upload their resume in PDF format
 - 🧠 Get instant AI-based scoring for job relevance
 - 📊 Receive personalized feedback to optimize resume conten
+- 🌐 Interact through a clean, responsive Streamlit-powered U
 
 
