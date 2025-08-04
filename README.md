@@ -9,5 +9,16 @@ This tool empowers job seekers to:
 - 🌐 Interact through a clean, responsive Streamlit-powered U
 
 ##  Key Features
+ Key Features
+| ⚙️ Feature | 💡 Description | 
+| PDF Resume Parsing | Extracts raw text from uploaded PDFs using PyPDF2 | 
+| Gemini Pro API Scoring | Evaluates resume strength based on job description with LLM-generated insights | 
+| Interactive UI | Streamlit frontend makes resume evaluation seamless and intuitive | 
+
+
+
+
+
+
 
 
