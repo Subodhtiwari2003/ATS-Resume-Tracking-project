@@ -20,6 +20,11 @@ This tool empowers job seekers to:
  Tech Stack
 | 🔧 Component | 📘 Purpose | 
 | Python 3.12 | Base language for logic and integration |
+ | Streamlit | UI interface for resume scoring dashboard | 
+| Gemini API | AI-powered resume evaluation and feedback | 
+| PyPDF2 | Extracts content from uploaded resume PDFs | 
+| Anaconda | Manages environment setup and dependencies | 
+
 
 
 
