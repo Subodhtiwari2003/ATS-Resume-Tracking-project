@@ -16,6 +16,7 @@ This tool empowers job seekers to:
 | Interactive UI | Streamlit frontend makes resume evaluation seamless and intuitive | 
 | AI Feedback Summary | Highlights strengths, weaknesses, and ATS compatibility tips | 
 
+## Tech Stack
 
 
 
