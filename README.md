@@ -19,6 +19,8 @@ This tool empowers job seekers to:
 ## Tech Stack
  Tech Stack
 | 🔧 Component | 📘 Purpose | 
+| Python 3.12 | Base language for logic and integration | 
+
 
 
 
