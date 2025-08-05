@@ -17,6 +17,13 @@ This tool empowers job seekers to:
 | AI Feedback Summary | Highlights strengths, weaknesses, and ATS compatibility tips | 
 
 ## Tech Stack
+ Tech Stack
+| 🔧 Component | 📘 Purpose | 
+
+
+
+
+
 
 
 
