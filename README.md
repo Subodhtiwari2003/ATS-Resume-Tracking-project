@@ -25,6 +25,7 @@ This tool empowers job seekers to:
 | PyPDF2 | Extracts content from uploaded resume PDFs | 
 | Anaconda | Manages environment setup and dependencies | 
 
+## Project Structure
 
 
 
