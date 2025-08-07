@@ -27,6 +27,7 @@ This tool empowers job seekers to:
 
 ## Project Structure
 ├── app.py                  # Streamlit app logic
+├── requirements.txt        # Python packages needed
 
 
 
