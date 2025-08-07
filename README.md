@@ -26,6 +26,8 @@ This tool empowers job seekers to:
 | Anaconda | Manages environment setup and dependencies | 
 
 ## Project Structure
+├── app.py                  # Streamlit app logic
+
 
 
 
