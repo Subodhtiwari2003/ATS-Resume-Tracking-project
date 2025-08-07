@@ -29,6 +29,7 @@ This tool empowers job seekers to:
 ├── app.py                  # Streamlit app logic
 ├── requirements.txt        # Python packages needed
 ├── LICENSE                 # Project licensing (GPL-3.0)
+├── .gitignore              # Git exclusions
 
 
 
