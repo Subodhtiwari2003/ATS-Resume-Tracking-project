@@ -33,6 +33,16 @@ This tool empowers job seekers to:
 
 ## Getting Started
 To run this project locally:
+# Create and activate environment
+conda create -n ats-resume-env python=3.12 -y
+conda activate ats-resume-env
+
+# Install required packages
+pip install -r requirements.txt
+
+# Start the app
+streamlit run app.py
+
 
 
 
