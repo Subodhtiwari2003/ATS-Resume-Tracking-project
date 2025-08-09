@@ -32,6 +32,7 @@ This tool empowers job seekers to:
 ├── .gitignore              # Git exclusions
 
 ## Getting Started
+To run this project locally:
 
 
 
