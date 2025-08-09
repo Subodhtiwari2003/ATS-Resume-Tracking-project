@@ -31,6 +31,8 @@ This tool empowers job seekers to:
 ├── LICENSE                 # Project licensing (GPL-3.0)
 ├── .gitignore              # Git exclusions
 
+## Getting Started
+
 
 
 
