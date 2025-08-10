@@ -50,6 +50,7 @@ streamlit run app.py
 - Gain constructive feedback before applying for jobs.
 
 ## Contact
+Author: Subodh Tiwari
 
 
 
