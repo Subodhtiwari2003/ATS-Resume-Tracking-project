@@ -49,6 +49,9 @@ streamlit run app.py
 - Optimize resumes for better ATS compatibility.
 - Gain constructive feedback before applying for jobs.
 
+## Contact
+
+
 
 
 
