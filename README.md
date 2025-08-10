@@ -51,6 +51,8 @@ streamlit run app.py
 
 ## Contact
 Author: Subodh Tiwari
+Email: kumarsubodh150403@gmail.com
+
 
 
 
